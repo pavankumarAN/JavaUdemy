@@ -2,22 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e9a77ad-edaa-45f7-863d-001090ba7810" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JavaUdemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalDataTypes/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalDataTypes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalDataTypes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalDataTypes/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalDataTypes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalDataTypes/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalDataTypes/NumericalDataTypes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalDataTypes/NumericalDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalDataTypes/src/com/Fundamentals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VarDataOper/VarDataOper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VarDataOper/VarDataOper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bin/.idea/JavaUdemy.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bin/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bin/.idea/modules.xml" afterDir="false" />
@@ -31,7 +15,8 @@
       <change afterPath="$PROJECT_DIR$/bin/NumericalDataTypes/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bin/NumericalDataTypes/NumericalDataTypes.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/bin/VarDataOper/VarDataOper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin" beforeDir="false" afterPath="$PROJECT_DIR$/bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/HelloWorld/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/HelloWorld/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/HelloWorld/HelloWorld.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/HelloWorld/HelloWorld.java" beforeDir="false" />
@@ -49,25 +34,27 @@
     <session id="1577402324">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -88,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NumericalDataTypes/NumericalDataTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            <state relative-caret-position="90">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -126,14 +113,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JavaUdemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaUdemy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="NumericalDataTypes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaUdemy" type="b2602c69:ProjectViewProjectNode" />
@@ -147,7 +139,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542173479727" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542970977638" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -180,10 +172,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="-11" width="1869" height="1092" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1920" height="1002" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2608457" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26680896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -198,7 +189,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3294979" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32912844" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -230,8 +221,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NumericalDataTypes/NumericalDataTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
